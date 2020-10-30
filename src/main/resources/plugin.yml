@@ -1,0 +1,5 @@
+name: AchievementPlugin
+version: 0.0.1
+api-version: 1.16
+author: ManuInDenWolken
+main: de._212th.advancementplugin.AdvancementPlugin
